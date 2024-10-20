@@ -57,30 +57,6 @@ const Carousel = () => {
               </div>
             </div>
           </div>
-          <div className="carousel-item">
-            <img className="w-100" src="/img/carousel-3.gif" alt="Image 2" />
-            <div className="carousel-caption">
-              <div className="container">
-                <div className="row justify-content-center">
-                  <div className="col-lg-7 text-center">
-                    <p className="fs-4 text-white animated zoomIn">
-                      Welcome to{" "}
-                      <strong className="text-dark">Afroon e-Shop</strong>
-                    </p>
-                    <h1 className="display-1 text-dark mb-4 animated zoomIn">
-                      Organic & Quality Tea Production
-                    </h1>
-                    <a
-                      href="#"
-                      className="btn btn-light rounded-pill py-3 px-5 animated zoomIn"
-                    >
-                      Explore More
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
         <button
           className="carousel-control-prev"
