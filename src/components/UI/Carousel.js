@@ -34,7 +34,11 @@ const Carousel = () => {
             </div>
           </div>
           <div className="carousel-item">
-            <img className="w-100" src="/img/carousel-2.gif" alt="Image 2" />
+            <img
+              className="w-100"
+              src="https://res.cloudinary.com/dwqz8bows/image/upload/v1729406248/aenjxjbjyjl56utmtrpc.gif"
+              alt="Image 2"
+            />
             <div className="carousel-caption">
               <div className="container">
                 <div className="row justify-content-center">
