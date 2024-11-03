@@ -558,7 +558,7 @@
 }
 
 .card .card-img-top {
-  height: 200px; /* Set a fixed height for consistency */
+  height: 300px; /* Set a fixed height for consistency */
   overflow: hidden; /* Ensures the image does not overflow the card */
 }
 

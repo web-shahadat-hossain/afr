@@ -38,21 +38,22 @@ const Navbar = () => {
               <Link href="/" className={isActive("/")}>
                 Home
               </Link>
-              <Link href="/about" className={isActive("/about")}>
-                About
-              </Link>
               <Link href="/product" className={isActive("/product")}>
                 Products
               </Link>
+
               <Link href="/store" className={isActive("/store")}>
                 Store
-              </Link>
-              <Link href="/feature" className={isActive("/feature")}>
-                Feature
               </Link>
 
               <Link href="/contact" className={isActive("/contact")}>
                 Contact
+              </Link>
+              <Link href="/dealer" className={isActive("/dealer")}>
+                Dealer
+              </Link>
+              <Link href="/about" className={isActive("/about")}>
+                About
               </Link>
               {session ? (
                 <Link href="/dashboard" className={isActive("/profile")}>
