@@ -22,8 +22,13 @@ const Navbar = () => {
     <div className="container-fluid bg-white sticky-top">
       <div className="container">
         <nav className="navbar navbar-expand-lg bg-white navbar-light py-2 py-lg-0">
-          <Link href="/" className="navbar-brand">
-            <img className="img-fluid" src={logo.src} alt="Logo" />
+          <Link href="/">
+            <img
+              className="img-fluid"
+              src={logo.src}
+              alt="Logo"
+              style={{ width: "82px" }}
+            />
           </Link>
           <button
             type="button"

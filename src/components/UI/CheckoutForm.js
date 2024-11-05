@@ -31,7 +31,7 @@ const CheckoutForm = ({
       total_price: totalPrice,
       delivery_method: paymentMethod,
       product: product.product._id, // Assuming product has an _id field
-      transaction_id: paymentMethod === "online" ? transactionId : null, // Optional for online payments
+      transaction_id: "online",
     };
 
     try {
@@ -166,7 +166,7 @@ const CheckoutForm = ({
               <li>Nagad: 019xxxxxxx</li>
               <li>Bank Account: 1234567890</li>
             </ul>
-            <div>
+            {/* <div>
               <label htmlFor="transaction_id" className="form-label">
                 Transaction ID
               </label>
@@ -181,7 +181,7 @@ const CheckoutForm = ({
                 onChange={(e) => setTransactionId(e.target.value)}
                 required={paymentMethod === "online"} // Required only for online payment
               />
-            </div>
+            </div> */}
           </div>
         )}
 
