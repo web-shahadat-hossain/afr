@@ -162,9 +162,33 @@ const CheckoutForm = ({
             <label className="form-label">Payment Details</label>
             <p>Please use the following account numbers:</p>
             <ul>
-              <li>Bikash: 018xxxxxxx</li>
-              <li>Nagad: 019xxxxxxx</li>
-              <li>Bank Account: 1234567890</li>
+              <li>
+                {" "}
+                <img
+                  src="https://www.logo.wine/a/logo/BKash/BKash-Icon-Logo.wine.svg"
+                  alt=""
+                  style={{ width: "40px" }}
+                />{" "}
+                Bikash: 01886866844
+              </li>
+              <li>
+                {" "}
+                <img
+                  src="https://img.utdstc.com/icon/2b6/3dd/2b63dd29935b2953d5ac7a47269bfea37c5e6556352158b87c1f8e20fc09da31:200"
+                  alt=""
+                  style={{ width: "30px" }}
+                />{" "}
+                Nagad: 01886866844
+              </li>
+              <li>
+                {" "}
+                <img
+                  src="https://www.startech.com.bd/image/catalog/logo-brand/bank/exim-bank.webp"
+                  alt=""
+                  style={{ width: "30px" }}
+                />{" "}
+                EXIM BANK  : 0112009920319
+              </li>
             </ul>
             {/* <div>
               <label htmlFor="transaction_id" className="form-label">
