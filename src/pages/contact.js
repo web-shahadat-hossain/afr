@@ -98,12 +98,12 @@ const Contact = () => {
           </div>
           <div className="row g-5">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-              <h3 className="mb-4">Need a functional contact form?</h3>
+              <h3 className="mb-4">Get in Touch with Us</h3>
               <p className="mb-4">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book.
+                Need assistance or have any questions? Our contact form is here
+                to make reaching out easy. Fill in your details, and our team
+                will get back to you as soon as possible. We're here to help
+                with anything you need!
               </p>
               <form onSubmit={handleSubmit}>
                 <div className="row g-3">

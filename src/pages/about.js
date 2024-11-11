@@ -62,9 +62,10 @@ const About = () => {
                     Our tea is one of the most popular drinks in the world
                   </h5>
                   <p className="mb-0">
-                    Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                    Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-                    sit
+                    Discover the rich taste and aroma of our premium tea, loved
+                    worldwide for its quality and refreshing flavor. Made from
+                    the finest ingredients, our tea offers a soothing and
+                    invigorating experience with every sip.
                   </p>
                 </div>
               </div>
@@ -73,9 +74,12 @@ const About = () => {
                 <div className="col-sm-8">
                   <h5>Daily use of a cup of tea is good for your health</h5>
                   <p className="mb-0">
-                    Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                    Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-                    sit
+                    Yes, drinking a cup of tea daily can be very beneficial for
+                    your health. Many studies have shown that regular, moderate
+                    consumption of tea—especially black or green tea—can
+                    contribute positively to various aspects of well-being. Here
+                    are some key reasons why having a cup of tea every day is
+                    good for you.
                   </p>
                 </div>
                 <div className="col-sm-4">

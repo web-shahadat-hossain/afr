@@ -12,14 +12,14 @@ const Products = ({ latestProducts }) => {
       category: "black-tea",
       imgSrc: "/img/product-2.jpg",
       description:
-        "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum.",
+        "Black tea is a popular drink with a rich, dark color and a bold taste. It energizes the body, making it a refreshing start to the day.",
     },
     {
       id: 2,
       title: "gold-tea",
       imgSrc: "/img/product-3.jpg",
       description:
-        "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum.",
+        "Gold tea is a premium blend known for its smooth, rich taste and golden hue. Often made from carefully selected tea leaves",
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ const Products = ({ latestProducts }) => {
       category: "organic-tea",
       imgSrc: "/img/product-4.jpg",
       description:
-        "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum.",
+        "Organic tea is grown without synthetic pesticides or fertilizers, making it a pure, natural choice. Known for its clean flavor and rich nutrients,",
     },
     {
       id: 4,
@@ -35,7 +35,7 @@ const Products = ({ latestProducts }) => {
       category: "green-tea",
       imgSrc: "/img/product-4.jpg",
       description:
-        "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum.",
+        "Green tea is a light, refreshing tea made from unoxidized leaves, known for its delicate flavor and numerous health benefits.",
     },
   ];
 

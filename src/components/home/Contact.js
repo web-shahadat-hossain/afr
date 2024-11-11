@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
 
 const Contact = () => {
@@ -18,10 +19,10 @@ const Contact = () => {
         >
           <div className="col-lg-8">
             <p className="text-center mb-5">
-              Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
-              ipsum et lorem et sit, sed stet lorem sit clita duo justo Diam
-              dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
-              ipsum et lorem et sit, sed stet lorem sit clita duo justo.
+              Have questions or need assistance? Contact us today! We are here
+              to help with any inquiries or support you may need. Reach out to
+              us through our contact form, email, or phone, and we'll respond as
+              quickly as possible.
             </p>
             <div className="row g-5">
               <div

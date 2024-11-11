@@ -16,19 +16,19 @@ const FeaturedArticle = () => {
               <p className="fs-5 fw-medium fst-italic text-primary">
                 Featured Article
               </p>
-              <h1 className="display-6">
-                The history of tea leaf in the world
-              </h1>
+              <h1 className="display-6">Experience the World’s Favorite Tea</h1>
             </div>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet.
+              Discover the rich taste and aroma of our premium tea, loved
+              worldwide for its quality and refreshing flavor. Made from the
+              finest ingredients, our tea offers a soothing and invigorating
+              experience with every sip.
             </p>
             <p className="mb-4">
-              Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
-              ipsum et lorem et sit, sed stet lorem sit clita duo justo magna.
-              Tempor erat elitr rebum at clita.
+              Discover the rich taste and aroma of our premium tea, loved
+              worldwide for its quality and refreshing flavor. Made from the
+              finest ingredients, our tea offers a soothing and invigorating
+              experience with every sip.
             </p>
             <a href="/" className="btn btn-primary rounded-pill py-3 px-5">
               Read More

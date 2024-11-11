@@ -12,24 +12,24 @@ const Testimonial = () => {
   const testimonials = [
     {
       id: 1,
-      text: "Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo",
-      image: "img/testimonial-1.jpg",
-      name: "Client Name",
-      profession: "Profession",
+      text: "I have been working with AfroonBD for several months now, and I must say, their service has been exceptional. The team is highly professional, responsive, and dedicated to delivering top-quality work. I’m impressed by their attention to detail and commitment to meeting deadlines. I highly recommend AfroonBD for anyone looking for reliable and innovative solutions.",
+      image: "img/profile.png",
+      name: "Rafiqur Rahman",
+      profession: "Dhaka, Bangladesh",
     },
     {
       id: 2,
-      text: "Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo",
-      image: "img/testimonial-2.jpg",
-      name: "Client Name",
-      profession: "Profession",
+      text: "AfroonBD has been an amazing partner for our digital marketing needs. Their strategies are clear, effective, and tailored to our specific goals. They helped increase our online presence and brought in more customers. Their team is friendly, professional, and always available to help with any questions. I’m very satisfied with their service and will continue to work with them in the future",
+      image: "img/profile.png",
+      name: "Sultana Begum",
+      profession: " Chittagong, Bangladesh",
     },
     {
       id: 3,
-      text: "Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo",
-      image: "img/testimonial-3.jpg",
-      name: "Client Name",
-      profession: "Profession",
+      text: "We approached AfroonBD for video editing and digital content creation, and they exceeded our expectations. They were quick, efficient, and the final product was of the highest quality. Their creative team understood our vision and executed it perfectly. We’re thrilled with the results and will definitely continue working with AfroonBD for future projects.",
+      image: "img/profile.png",
+      name: "Jamal Hossain",
+      profession: "Barisal, Bangladesh",
     },
   ];
 

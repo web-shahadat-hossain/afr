@@ -17,8 +17,8 @@ const VideoSection = () => {
                   and <span className="text-white">beauty</span>
                 </h1>
                 <h5 className="fw-normal lh-base fst-italic text-white mb-5">
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                  Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
+                  Tea is a drink of health and beauty, known for its nourishing
+                  properties and rich antioxidants.
                 </h5>
 
                 {/* List Items */}
