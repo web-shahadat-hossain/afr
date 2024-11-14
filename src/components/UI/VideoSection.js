@@ -75,7 +75,7 @@ const VideoSection = () => {
                   type="button"
                   className="btn-play"
                   data-bs-toggle="modal"
-                  data-src="https://www.youtube.com/embed/DWRcNpR6Kdc"
+                  data-src="https://www.youtube.com/embed/4JQHUFrYPtc"
                   data-bs-target="#videoModal"
                 >
                   <span></span>

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const VideoModal = ({ setOpen }) => {
   const [videoSrc, setVideoSrc] = useState(
-    "https://www.youtube.com/embed/DWRcNpR6Kdc"
+    "https://www.youtube.com/embed/4JQHUFrYPtc"
   );
 
   const handleCloseModal = () => {

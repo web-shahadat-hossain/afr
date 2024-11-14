@@ -32,6 +32,16 @@ const DealerPage = () => {
       <PageHeader title={"Dealer"} />
       <div className="container my-4">
         <h2 className="text-center mb-4">Our Dealers</h2>
+        <div className="text-center mt-4 mb-5">
+          <a
+            href="https://drive.google.com/file/d/1g7kajgqFRO8NWmCYG4EO1CrF7nsUmpAS/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-primary"
+          >
+            Dealer forms and agreements
+          </a>
+        </div>
         <div className="row">
           {dealers.map((dealer) => (
             <div key={dealer.id} className="col-12 col-sm-6 col-md-4 mb-4">
