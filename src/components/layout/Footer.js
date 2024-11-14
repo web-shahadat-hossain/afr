@@ -114,7 +114,7 @@ const Footer = () => {
             </div>
             <div className="col-md-6 text-center text-md-end">
               Designed By{" "}
-              <a className="fw-medium" href="https://htmlcodex.com">
+              <a className="fw-medium" href="https://www.webnexit.com/">
                 Webnex IT
               </a>
             </div>
