@@ -34,7 +34,7 @@ const DealerPage = () => {
         <h2 className="text-center mb-4">Our Dealers</h2>
         <div className="text-center mt-4 mb-5">
           <a
-            href="https://drive.google.com/file/d/1g7kajgqFRO8NWmCYG4EO1CrF7nsUmpAS/view?usp=sharing"
+            href="https://drive.google.com/drive/folders/1eIt4uAloARugjO_KegvJYlgVkHe_4cdL?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-primary"
